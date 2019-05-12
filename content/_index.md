@@ -60,6 +60,28 @@ type: docs
         </a>
     </td>
 </tr>
+<!--- bchd ---> 
+<tr>
+    <td rowspan="2">
+        bchd
+    </td>
+    <td>
+        Chris Pacia
+    </td>
+    <td rowspan="2">
+        <img src="bchd-addr.png" height="128"/>
+    </td>
+    <td rowspan="2">
+        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qrhea03074073ff3zv9whh0nggxc7k03ssh8jv9mkx" data-satoshis="600000"><span>Donate</span></button>
+    </td>
+</tr>
+<tr>
+    <td>
+        <a href="https://blockdozer.com/address/qrhea03074073ff3zv9whh0nggxc7k03ssh8jv9mkx">
+        qrhea03074073ff3zv9whh0nggxc7k03ssh8jv9mkx
+        </a>
+    </td>
+</tr>
 </tbody>
 </table>
 
