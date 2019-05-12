@@ -28,7 +28,9 @@ type: docs
         <img src="abc-addr.png" height="128"/>
     </td>
     <td rowspan="2">
-        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qqeht8vnwag20yv8dvtcrd4ujx09fwxwsqqqw93w88" data-satoshis="600000"><span>Donate</span></button>
+        <button class="badger-button" data-text="Donate $1" data-to="bitcoincash:qqeht8vnwag20yv8dvtcrd4ujx09fwxwsqqqw93w88">
+          <span>Donate</span>
+        </button>
     </td>
 </tr>
 <tr>
@@ -50,7 +52,9 @@ type: docs
         <img src="ec-addr.png" height="128"/>
     </td>
     <td rowspan="2">
-        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qz4wq9m860zr5p2nfdpttm5ymdqdyt3psc95qjagae" data-satoshis="600000"><span>Donate</span></button>
+        <button class="badger-button" data-text="Donate $1" data-to="bitcoincash:qz4wq9m860zr5p2nfdpttm5ymdqdyt3psc95qjagae">
+          <span>Donate</span>
+        </button>
     </td>
 </tr>
 <tr>
@@ -72,7 +76,9 @@ type: docs
         <img src="bchd-addr.png" height="128"/>
     </td>
     <td rowspan="2">
-        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qrhea03074073ff3zv9whh0nggxc7k03ssh8jv9mkx" data-satoshis="600000"><span>Donate</span></button>
+        <button class="badger-button" data-text="Donate $1" data-to="bitcoincash:qrhea03074073ff3zv9whh0nggxc7k03ssh8jv9mkx">
+          <span>Donate</span>
+        </button>
     </td>
 </tr>
 <tr>
@@ -94,7 +100,9 @@ type: docs
         <img src="crescent-cash-addr.png" height="128"/>
     </td>
     <td rowspan="2">
-        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qptnypuugy29lttleggl7l0vpls0vg295q9nsavw6g" data-satoshis="600000"><span>Donate</span></button>
+        <button class="badger-button" data-text="Donate $1" data-to="bitcoincash:qptnypuugy29lttleggl7l0vpls0vg295q9nsavw6g">
+          <span>Donate</span>
+        </button>
     </td>
 </tr>
 <tr>
