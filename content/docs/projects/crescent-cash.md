@@ -1,6 +1,7 @@
 ---
 title: Crescent Cash
 type: docs
+weight: 4000
 ---
 
 Homepage: https://crescent.cash/

@@ -1,6 +1,7 @@
 ---
 title: Electron Cash
 type: docs
+weight: 2000
 ---
 
 Homepage: https://electroncash.org/

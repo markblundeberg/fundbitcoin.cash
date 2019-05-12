@@ -1,6 +1,7 @@
 ---
 title: Bitcoin-ABC
 type: docs
+weight: 1000
 ---
 
 Homepage: https://bitcoinabc.org

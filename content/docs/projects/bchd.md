@@ -1,6 +1,7 @@
 ---
 title: bchd
 type: docs
+weight: 3000
 ---
 
 Homepage: https://bchd.cash/
