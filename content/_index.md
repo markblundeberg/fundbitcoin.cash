@@ -82,6 +82,29 @@ type: docs
         </a>
     </td>
 </tr>
+<!--- Crescent Cash ---> 
+<tr>
+    <td rowspan="2">
+        Crescent Cash
+    </td>
+    <td>
+        pokkst
+    </td>
+    <td rowspan="2">
+        <img src="crescent-cash-addr.png" height="128"/>
+    </td>
+    <td rowspan="2">
+        <button class="badger-button button button--rayen button--border-thick button--text-thick button--size-m" data-text="Donate $1" data-to="bitcoincash:qptnypuugy29lttleggl7l0vpls0vg295q9nsavw6g" data-satoshis="600000"><span>Donate</span></button>
+    </td>
+</tr>
+<tr>
+    <td>
+        <a href="https://blockdozer.com/address/qptnypuugy29lttleggl7l0vpls0vg295q9nsavw6g">
+        qptnypuugy29lttleggl7l0vpls0vg295q9nsavw6g
+        </a>
+    </td>
+</tr>
+<!--- end --->
 </tbody>
 </table>
 
