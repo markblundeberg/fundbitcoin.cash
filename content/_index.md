@@ -93,12 +93,15 @@ hope to curate a list of open-source and free projects which need community supp
 
 
 <script>
+// Tree fiddy
+defaultDonation = 3.50;
+
 function getBCHPrice () {
   return new Promise((resolve, reject) => {
     jQuery.getJSON('https://index-api.bitcoin.com/api/v0/cash/price/usd', function (result) {
       if (result.price != '') {
-        var singleDollarValue = result.price / 100
-        var singleDollarSatoshis = 100000000 / singleDollarValue
+        var singleDollarValue = result.price / 100;
+        var singleDollarSatoshis = 100000000 / singleDollarValue * defaultDonation;
         resolve(singleDollarSatoshis);
       } else {
         reject(new Error(result.error));
