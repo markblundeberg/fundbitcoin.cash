@@ -43,7 +43,7 @@ type: docs
 <!--- Electron Cash ---> 
 <tr>
     <td rowspan="2">
-        Electron Cash
+        <a href="https://electroncash.org/">Electron Cash</a>
     </td>
     <td>
         Jonald Fyookball
